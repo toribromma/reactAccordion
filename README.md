@@ -4,7 +4,10 @@ react accordion created by scratch using hooks
 ## useState
 
 setActive state allows for active name on title for css changes
-toggleAccordion function allows user to click on the accordion to make it active
+
+setHeight allows for 0px to max height being set for each accordion content
+
+toggleAccordion function allows user to click on the accordion to make it active(highlighted) and expand/collapse.
 
 ## useRef
 
