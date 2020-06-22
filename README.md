@@ -1,6 +1,16 @@
 # reactAccordion
 react accordion created by scratch using hooks
 
+## useState
+
+setActive state allows for active name on title for css changes
+toggleAccordion function allows user to click on the accordion to make it active
+
+## useRef
+
+access scroll height in order to expand and collapse the body
+
+
 ### `npm start`
 
 Runs the app in the development mode.<br />

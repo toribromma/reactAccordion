@@ -2,9 +2,10 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Accordion from "./components/Accordion"
+
 function App() {
   return (
-    <div>
+    <div className="container">
 
       <Accordion
        title="What is your return policy?"
